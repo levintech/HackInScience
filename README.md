@@ -1,0 +1,2 @@
+# HackInScience
+Python exercises
