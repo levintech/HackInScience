@@ -1,6 +1,5 @@
-# HackInScience
-Python exercises on HackInScience
-========
+# Python exercises on HackInScience
+
 
 | # | Title | Solution | Category |
 |---| ----- | -------- | ---------- |
