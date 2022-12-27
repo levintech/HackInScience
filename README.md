@@ -50,3 +50,38 @@
 |19| [Largest product in a grid](https://www.hackinscience.org/exercises/largest-product-in-a-grid) | [Source](./src/training/19-largest-product-in-a-grid.py) |
 |20| [CSV and Python](https://www.hackinscience.org/exercises/csv-and-python) | [Source](./src/training/20-csv-and-python.py) |
 |21| [Pascal's triangle](https://www.hackinscience.org/exercises/pascals-triangle) | [Source](./src/training/21-pascals-triangle.py) |
+
+
+
+## Python - Realist
+| # |    Title    |    Solution    |
+|---| ----------- | -------------- |
+|01| [Longest word](https://www.hackinscience.org/exercises/longest-word) | [Source](./src/realist/01-longest-word.py) |
+|02| [Print sorbet flavors](https://www.hackinscience.org/exercises/print-sorbet-flavors) | [Source](./src/realist/02-print-sorbet-flavors.py) |
+|03| [Sets of love](https://www.hackinscience.org/exercises/sets-of-love) | [Source](./src/realist/03-sets-of-love.py) |
+|04| [Sort students](https://www.hackinscience.org/exercises/sort-students) | [Source](./src/realist/04-sort-students.py) |
+|05| [Reverse Roman Numerals](https://www.hackinscience.org/exercises/reverse-roman-numerals) | [Source](./src/realist/05-reverse-roman-numerals.py) |
+|06| [Select students](https://www.hackinscience.org/exercises/select-students) | [Source](./src/realist/06-select-students.py) |
+|07| [Friday the 13th](https://www.hackinscience.org/exercises/friday-the-13th) | [Source](./src/realist/07-friday-the-13th.py) |
+|08| [The missing card](https://www.hackinscience.org/exercises/the-missing-card) | [Source](./src/realist/08-the-missing-card.py) |
+|09| [Playing with anagrams](https://www.hackinscience.org/exercises/is_anagram) | [Source](./src/realist/09-is_anagram.py) |
+|10| [Currency](https://www.hackinscience.org/exercises/currency) | [Source](./src/realist/10-currency.py) |
+|11| [Flatten lists](https://www.hackinscience.org/exercises/flatten-lists) | [Source](./src/realist/11-flatten-lists.py) |
+|12| [Perfect deck shuffle](https://www.hackinscience.org/exercises/perfect-deck-shuffle) | [Source](./src/realist/12-perfect-deck-shuffle.py) |
+|13| [Hearts emojis](https://www.hackinscience.org/exercises/hearts-emojis) | [Source](./src/realist/13-hearts-emojis.py) |
+|14| [Text framing](https://www.hackinscience.org/exercises/text-framing) | [Source](./src/realist/14-text-framing.py) |
+|15| [Draw N Squares](https://www.hackinscience.org/exercises/draw-n-squares) | [Source](./src/realist/15-draw-n-squares.py) |
+|16| [Student class](https://www.hackinscience.org/exercises/student-class) | [Source](./src/realist/16-student-class.py) |
+|17| [Print battery charge](https://www.hackinscience.org/exercises/print-battery-charge) | [Source](./src/realist/17-print-battery-charge.py) |
+|18| [Side by side](https://www.hackinscience.org/exercises/side-by-side) | [Source](./src/realist/18-side-by-side.py) |
+|19| [Format your output](https://www.hackinscience.org/exercises/format-your-output) | [Source](./src/realist/19-format-your-output.py) |
+|20| [Roman Numerals](https://www.hackinscience.org/exercises/roman-numerals) | [Source](./src/realist/20-roman-numerals.py) |
+|21| [Caesar Cypher](https://www.hackinscience.org/exercises/caesar-cypher) | [Source](./src/realist/21-caesar-cypher.py) |
+|22| [Break a safe](https://www.hackinscience.org/exercises/break-a-safe) | [Source](./src/realist/22-break-a-safe.py) |
+|23| [Password Generator](https://www.hackinscience.org/exercises/password-generator) | [Source](./src/realist/23-password-generator.py) |
+|24| [bencode, bdecode](https://www.hackinscience.org/exercises/bencode-bdecode) | [Source](./src/realist/24-bencode-bdecode.py) |
+|25| [Restaurant menu](https://www.hackinscience.org/exercises/restaurant-menu) | [Source](./src/realist/25-restaurant-menu.py) |
+|26| [Py Master Mind](https://www.hackinscience.org/exercises/py-master-mind) | [Source](./src/realist/26-py-master-mind.py) |
+|27| [Elementary cellular automation](https://www.hackinscience.org/exercises/elementary-cellular-automaton) | [Source](./src/realist/27-elementary-cellular-automaton.py) |
+|28| [Temperature class](https://www.hackinscience.org/exercises/temperature-class) | [Source](./src/realist/28-temperature-class.py) |
+|29| [Sequence Mining](https://www.hackinscience.org/exercises/sequence-mining) | [Source](./src/realist/29-sequence-mining.py) |
