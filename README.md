@@ -85,3 +85,14 @@
 |27| [Elementary cellular automation](https://www.hackinscience.org/exercises/elementary-cellular-automaton) | [Source](./src/realist/27-elementary-cellular-automaton.py) |
 |28| [Temperature class](https://www.hackinscience.org/exercises/temperature-class) | [Source](./src/realist/28-temperature-class.py) |
 |29| [Sequence Mining](https://www.hackinscience.org/exercises/sequence-mining) | [Source](./src/realist/29-sequence-mining.py) |
+
+
+
+## Python - Command Line
+| # |    Title    |    Solution    |
+|---| ----------- | -------------- |
+|01| [Print parameters](https://www.hackinscience.org/exercises/print-parameters) | [Source](./src/command-line/01-print-parameters.py) |
+|02| [Print the first parameter](https://www.hackinscience.org/exercises/print-the-first-parameter) | [Source](./src/command-line/02-print-the-first-parameter.py) |
+|03| [Simple adder](https://www.hackinscience.org/exercises/my-add) | [Source](./src/command-line/03-my-add.py) |
+|04| [Calculator](https://www.hackinscience.org/exercises/calculator1) | [Source](./src/command-line/04-calculator1.py) |
+|05| [Fir tree](https://www.hackinscience.org/exercises/sapin) | [Source](./src/command-line/05-fir-tree.py) |
