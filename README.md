@@ -98,3 +98,12 @@
 |03| [Simple adder](https://www.hackinscience.org/exercises/my-add) | [Source](./src/command-line/03-my-add.py) |
 |04| [Calculator](https://www.hackinscience.org/exercises/calculator1) | [Source](./src/command-line/04-calculator1.py) |
 |05| [Fir tree](https://www.hackinscience.org/exercises/sapin) | [Source](./src/command-line/05-fir-tree.py) |
+
+
+
+## Python and Numpy
+| # |    Title    |    Solution    |
+|---| ----------- | -------------- |
+|01| [Abelian sandpiles](https://www.hackinscience.org/exercises/abelian-sandpiles) | [Source](./src/numpy/01-abelian-sandpiles.py) |
+|02| [Make your own 2048 in Python!](https://www.hackinscience.org/exercises/make-your-own-2048-in-python) | [Source](./src/numpy/02-make-your-own-2048-in-python.py) |
+|03| [Dirichlet solver](https://www.hackinscience.org/exercises/dirichlet-solver) | [Source](./src/numpy/03-dirichlet-solver.py) |
