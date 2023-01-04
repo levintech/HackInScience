@@ -85,6 +85,8 @@
 |27| [Elementary cellular automation](https://www.hackinscience.org/exercises/elementary-cellular-automaton) | [Source](./src/realist/27-elementary-cellular-automaton.py) |
 |28| [Temperature class](https://www.hackinscience.org/exercises/temperature-class) | [Source](./src/realist/28-temperature-class.py) |
 |29| [Sequence Mining](https://www.hackinscience.org/exercises/sequence-mining) | [Source](./src/realist/29-sequence-mining.py) |
+|30| [Change for 42](https://www.hackinscience.org/exercises/change-for-42) | [Source](./src/realist/30-change-for-42.py) |
+|31| [IRC logs as CSV](https://www.hackinscience.org/exercises/irc-logs-as-csv) | [Source](./src/realist/31-irc-logs-as-csv.py) |
 
 
 
